@@ -1,0 +1,18 @@
+.row {
+	text-align: center;
+}
+
+#cards img {
+	border: 3px solid #555;
+	margin: 3px;
+}
+
+#cards img.selected {
+	border-color: #C00;
+}
+
+img.example {
+	border: 3px solid #555;
+	margin: 3px;
+}
+
